@@ -1,0 +1,26 @@
+<li class="breadcrumb-item">PlayCard Team</li>
+<li class="breadcrumb-item">Bcrypt Brute Force</li>
+        </ul>
+      </div>
+		</div>
+		<style>
+img[alt*="www.000webhost.com"]{
+display:none
+}
+</style>
+				<div class="tile">
+					<form method="post">
+						<input type="text" name="input" class="form-control mb-3" required="required" placeholder="Password Bcrypt">
+						<input type="text" name="inputz" class="form-control mb-3" required="required" placeholder="Text Brute"><hr>
+						<button type="submit" name="crack" class="btn btn-primary btn-block">Check</button>
+			</form>
+		</div>
+	<div class="tile">
+  <h3 class="tile-title"><i class="fa fa-exclamation-triangle"></i> Cara menggunakan</h3>
+  <ul>
+    <li>Masukkan password hash bertype bcrypt di inputan yang ada di atas</li>
+    <li>Lalu masukkan text password bruteforce kalian ke inputan ke 2</li>
+    <li>Klik submit</li>
+  </ul>
+        </div>          
+</main>
